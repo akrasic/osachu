@@ -1,0 +1,5 @@
+user = MUSER
+password = MPASS
+dbname = MDB
+query = SELECT home  FROM users WHERE email='%u'
+hosts = 127.0.0.1

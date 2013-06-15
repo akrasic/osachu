@@ -1,0 +1,5 @@
+user = MUSER
+password = MPASS
+dbname = MDB
+query = SELECT gid  FROM users WHERE email='%s'
+hosts = 127.0.0.1

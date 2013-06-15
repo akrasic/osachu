@@ -1,0 +1,5 @@
+user = MUSER
+password = MPASS
+dbname = MDB
+query = SELECT domain AS virtual FROM relay_domains WHERE domain='%s'
+hosts = 127.0.0.1

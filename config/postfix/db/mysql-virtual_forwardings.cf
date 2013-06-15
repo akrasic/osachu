@@ -1,0 +1,5 @@
+user = MUSER
+password = MPASS
+dbname = MDB
+query = SELECT destination FROM forwardings WHERE source='%s'
+hosts = 127.0.0.1
